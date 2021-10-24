@@ -1,0 +1,16 @@
+.addservice form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.addservice form input,textarea{
+ width: 40%;
+ border-radius: 10px;
+ margin:5px 0;
+ padding:5px;
+ background-color: rgba(141, 135, 131, 0.322);
+ color:orangered;
+}
